@@ -3,5 +3,3 @@
 <br>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirrel-ayu&theme=flag-india&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squirrel-ayu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
